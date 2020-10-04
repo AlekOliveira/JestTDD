@@ -1,0 +1,10 @@
+{
+  "name": "JestTDD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlekOliveira/JestTDD.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
